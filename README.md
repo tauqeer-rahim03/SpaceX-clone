@@ -1,6 +1,8 @@
+# Spacex-Clone
+
 This is a fully responsive clone of the official SpaceX website, built using HTML, CSS, and JavaScript. The project aims to replicate the sleek design and animations of the SpaceX website while improving front-end development skills.
 
-🔥 Features
+## 🔥 Features
 
 - Responsive design for all devices 📱💻
 
@@ -8,7 +10,7 @@ This is a fully responsive clone of the official SpaceX website, built using HTM
 
 - Interactive elements using JavaScript 🛠️
 
-📂 Technologies Used
+## 📂 Technologies Used
 
 - HTML – Structure of the website
 
@@ -16,7 +18,7 @@ This is a fully responsive clone of the official SpaceX website, built using HTM
 
 - JavaScript – Interactivity and dynamic elements
 
-🎯 Goals of the Project
+## 🎯 Goals of the Project
 
 - Improve front-end development skills
 
@@ -24,6 +26,6 @@ This is a fully responsive clone of the official SpaceX website, built using HTM
 
 - Practice JavaScript-based interactivity
 
-💡 Contributions
+## 💡 Contributions
 
 Feel free to fork the repository and submit a pull request if you have suggestions or improvements!
